@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@192.168.1.150:frontend/admin-cao.git"
+    "url": "git@github.com:sam-cli-org/react-admin.git"
   },
   "pre-commit": [
     "lint"
